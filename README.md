@@ -1,3 +1,4 @@
+- 语言：python 3.7
 - 采用pygame库
 - 需要事先 pip install pygame
 - 界面演示：
