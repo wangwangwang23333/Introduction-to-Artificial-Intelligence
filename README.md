@@ -1,1 +1,2 @@
-# -
+- 采用pygame库
+- 需要事先 pip install pygame
